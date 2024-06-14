@@ -6,9 +6,9 @@ import TokenArtifact from "../artifacts/TestToken";
 import ZeekMessagesArtifact from "../artifacts/ZeekSecretMessages";
 
 // Address of the ZeekMessages contract
-const ZEEK_MESSAGES_CONTRACT_ADDRESS = "0xd9145CCE52D386f254917e481eB44e9943F39138";
+const ZEEK_MESSAGES_CONTRACT_ADDRESS = "0x4eb0afa09bac11bcfc596d12a3a0acfa1b779cff";
 // Address of the ERC20 token contract
-const TOKEN_CONTRACT_ADDRESS = "0xf8e81D47203A594245E36C48e151709F0C19fBe8"
+const TOKEN_CONTRACT_ADDRESS = "0xb514a35cda569f5fb81efb37cadffd9caa5438c4"
 // Message to be sent to the contract
 const NEW_MESSAGE = "This tx cost me no ETH!";
 
